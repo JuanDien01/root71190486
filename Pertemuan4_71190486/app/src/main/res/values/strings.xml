@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Game Blaster</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot">Forgot Password?</string>
+    <string name="login">LOGIN</string>
+    <string name="signup">SIGN UP</string>
+    <string name="copyright">Copyright ©2022 GameBlaster.com</string>
+
+</resources>

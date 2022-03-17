@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Semester 6/ProgAndro/Pertemuan6_71190486/app/src/main/res/layout-land/activity_main.xml" value="0.2" />
+        <entry key="..\:/Semester 6/ProgAndro/Pertemuan6_71190486/app/src/main/res/layout-land/activity_main1.xml" value="0.21164021164021163" />
+        <entry key="..\:/Semester 6/ProgAndro/Pertemuan6_71190486/app/src/main/res/layout-land/activity_second.xml" value="0.1" />
+        <entry key="..\:/Semester 6/ProgAndro/Pertemuan6_71190486/app/src/main/res/layout-land/activity_third.xml" value="0.21164021164021163" />
+        <entry key="..\:/Semester 6/ProgAndro/Pertemuan6_71190486/app/src/main/res/layout-land/page_first.xml" value="0.1" />
+        <entry key="..\:/Semester 6/ProgAndro/Pertemuan6_71190486/app/src/main/res/layout-land/page_second.xml" value="0.1" />
+        <entry key="..\:/Semester 6/ProgAndro/Pertemuan6_71190486/app/src/main/res/layout-land/page_third.xml" value="0.1" />
+        <entry key="..\:/Semester 6/ProgAndro/Pertemuan6_71190486/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Semester 6/ProgAndro/Pertemuan6_71190486/app/src/main/res/layout/activity_second.xml" value="0.10989583333333333" />
+        <entry key="..\:/Semester 6/ProgAndro/Pertemuan6_71190486/app/src/main/res/layout/activity_third.xml" value="0.25" />
+        <entry key="..\:/Semester 6/ProgAndro/Pertemuan6_71190486/app/src/main/res/layout/fragment_a.xml" value="0.2" />
+        <entry key="..\:/Semester 6/ProgAndro/Pertemuan6_71190486/app/src/main/res/layout/fragment_b.xml" value="0.1" />
+        <entry key="..\:/Semester 6/ProgAndro/Pertemuan6_71190486/app/src/main/res/layout/fragment_c.xml" value="0.2" />
+        <entry key="..\:/Semester 6/ProgAndro/Pertemuan6_71190486/app/src/main/res/layout/page_first.xml" value="0.1" />
+        <entry key="..\:/Semester 6/ProgAndro/Pertemuan6_71190486/app/src/main/res/layout/page_second.xml" value="0.25" />
+        <entry key="..\:/Semester 6/ProgAndro/Pertemuan6_71190486/app/src/main/res/layout/page_third.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

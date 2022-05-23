@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "828326118730",
+    "project_id": "database-firestore-mahasiswa",
+    "storage_bucket": "database-firestore-mahasiswa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828326118730:android:8649a178670c0d6873adb3",
+        "android_client_info": {
+          "package_name": "com.example.pertemuan11_71190486"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828326118730-cfoer1ienkjqp6saknhj6t4rb39lov4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYAhmii7RoCzTnmzC3_FCiFO08qFmLqJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828326118730-cfoer1ienkjqp6saknhj6t4rb39lov4v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

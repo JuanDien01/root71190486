@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Semester 6/ProgAndro/71190486_final/app/src/main/res/drawable/bg_back.xml" value="0.17" />
+        <entry key="..\:/Semester 6/ProgAndro/71190486_final/app/src/main/res/drawable/bg_cardview.xml" value="0.1755" />
+        <entry key="..\:/Semester 6/ProgAndro/71190486_final/app/src/main/res/drawable/bg_email_password.xml" value="0.2175" />
+        <entry key="..\:/Semester 6/ProgAndro/71190486_final/app/src/main/res/drawable/bg_login.xml" value="0.2175" />
+        <entry key="..\:/Semester 6/ProgAndro/71190486_final/app/src/main/res/drawable/bg_profile.xml" value="0.17" />
+        <entry key="..\:/Semester 6/ProgAndro/71190486_final/app/src/main/res/drawable/bg_search.xml" value="0.1365" />
+        <entry key="..\:/Semester 6/ProgAndro/71190486_final/app/src/main/res/drawable/bg_update.xml" value="0.175" />
+        <entry key="..\:/Semester 6/ProgAndro/71190486_final/app/src/main/res/drawable/btn_item.xml" value="0.1755" />
+        <entry key="..\:/Semester 6/ProgAndro/71190486_final/app/src/main/res/drawable/custom_bottom_nav.xml" value="0.1755" />
+        <entry key="..\:/Semester 6/ProgAndro/71190486_final/app/src/main/res/drawable/custom_email_password.xml" value="0.1" />
+        <entry key="..\:/Semester 6/ProgAndro/71190486_final/app/src/main/res/drawable/ic_add.xml" value="0.1" />
+        <entry key="..\:/Semester 6/ProgAndro/71190486_final/app/src/main/res/drawable/ic_back.xml" value="0.17" />
+        <entry key="..\:/Semester 6/ProgAndro/71190486_final/app/src/main/res/drawable/ic_email.xml" value="0.1" />
+        <entry key="..\:/Semester 6/ProgAndro/71190486_final/app/src/main/res/drawable/ic_home.xml" value="0.1" />
+        <entry key="..\:/Semester 6/ProgAndro/71190486_final/app/src/main/res/drawable/ic_lock.xml" value="0.1" />
+        <entry key="..\:/Semester 6/ProgAndro/71190486_final/app/src/main/res/drawable/ic_search.xml" value="0.1755" />
+        <entry key="..\:/Semester 6/ProgAndro/71190486_final/app/src/main/res/drawable/ic_user.xml" value="0.1365" />
+        <entry key="..\:/Semester 6/ProgAndro/71190486_final/app/src/main/res/drawable/sp_rectangle.xml" value="0.1" />
+        <entry key="..\:/Semester 6/ProgAndro/71190486_final/app/src/main/res/drawable/transparent_background.xml" value="0.1755" />
+        <entry key="..\:/Semester 6/ProgAndro/71190486_final/app/src/main/res/layout/activity_create.xml" value="0.2" />
+        <entry key="..\:/Semester 6/ProgAndro/71190486_final/app/src/main/res/layout/activity_crud.xml" value="0.264" />
+        <entry key="..\:/Semester 6/ProgAndro/71190486_final/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Semester 6/ProgAndro/71190486_final/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Semester 6/ProgAndro/71190486_final/app/src/main/res/layout/activity_menu.xml" value="0.1" />
+        <entry key="..\:/Semester 6/ProgAndro/71190486_final/app/src/main/res/layout/activity_profile.xml" value="0.2" />
+        <entry key="..\:/Semester 6/ProgAndro/71190486_final/app/src/main/res/layout/activity_register.xml" value="0.264" />
+        <entry key="..\:/Semester 6/ProgAndro/71190486_final/app/src/main/res/layout/activity_reset_password.xml" value="0.264" />
+        <entry key="..\:/Semester 6/ProgAndro/71190486_final/app/src/main/res/layout/activity_update.xml" value="0.264" />
+        <entry key="..\:/Semester 6/ProgAndro/71190486_final/app/src/main/res/layout/film_update.xml" value="0.1" />
+        <entry key="..\:/Semester 6/ProgAndro/71190486_final/app/src/main/res/layout/fragment_blank.xml" value="0.15307971014492755" />
+        <entry key="..\:/Semester 6/ProgAndro/71190486_final/app/src/main/res/layout/fragment_home.xml" value="0.264" />
+        <entry key="..\:/Semester 6/ProgAndro/71190486_final/app/src/main/res/layout/fragment_profile.xml" value="0.16799999999999998" />
+        <entry key="..\:/Semester 6/ProgAndro/71190486_final/app/src/main/res/layout/fragment_search.xml" value="0.1" />
+        <entry key="..\:/Semester 6/ProgAndro/71190486_final/app/src/main/res/layout/item_film.xml" value="0.264" />
+        <entry key="..\:/Semester 6/ProgAndro/71190486_final/app/src/main/res/layout/jasla.xml" value="0.12132725430597771" />
+        <entry key="..\:/Semester 6/ProgAndro/71190486_final/app/src/main/res/layout/menu_custom.xml" value="0.2" />
+        <entry key="..\:/Semester 6/ProgAndro/71190486_final/app/src/main/res/menu/bottom_menu.xml" value="0.24947916666666667" />
+        <entry key="..\:/Semester 6/ProgAndro/71190486_final/app/src/main/res/menu/bottom_nav_menu.xml" value="0.24947916666666667" />
+        <entry key="..\:/Semester 6/ProgAndro/71190486_final/app/src/main/res/menu/bottom_navigation.xml" value="0.2" />
+        <entry key="..\:/Semester 6/ProgAndro/71190486_final/app/src/main/res/menu/button_navigation.xml" value="0.1" />
+        <entry key="..\:/Semester 6/ProgAndro/71190486_final/app/src/main/res/menu/menu.xml" value="0.24947916666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

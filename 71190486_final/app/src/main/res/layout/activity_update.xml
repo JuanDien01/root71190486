@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@color/dark_gray"
+    android:padding="20dp"
+    android:gravity="center"
+    tools:context=".UpdateActivity">
+
+    <TextView
+        android:id="@+id/tvUpdate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="monospace"
+        android:text="Update Data"
+        android:textAlignment="center"
+        android:textColor="@color/off_white"
+        android:textSize="30sp" />
+
+    <EditText
+        android:id="@+id/edtUpdateJudul"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:layout_marginTop="80dp"
+        android:background="@drawable/bg_update"
+        android:textColorHint="@color/off_white"
+        android:textColor="@color/off_white"
+        android:fontFamily="sans-serif-condensed"
+        android:layout_below="@+id/tvUpdate"
+        android:paddingStart="12dp"
+        android:hint="Judul Film"/>
+
+    <EditText
+        android:id="@+id/edtUpdateGenre"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/bg_update"
+        android:textColorHint="@color/off_white"
+        android:textColor="@color/off_white"
+        android:fontFamily="sans-serif-condensed"
+        android:paddingStart="12dp"
+        android:layout_below="@+id/edtUpdateJudul"
+        android:hint="Genre"/>
+
+    <EditText
+        android:id="@+id/edtUpdateProduser"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/bg_update"
+        android:fontFamily="sans-serif-condensed"
+        android:textColorHint="@color/off_white"
+        android:textColor="@color/off_white"
+        android:paddingStart="12dp"
+        android:layout_below="@+id/edtUpdateGenre"
+        android:hint="Nama Produser"/>
+
+    <EditText
+        android:id="@+id/edtUpdatePemeran"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/bg_update"
+        android:textColorHint="@color/off_white"
+        android:textColor="@color/off_white"
+        android:fontFamily="sans-serif-condensed"
+        android:paddingStart="12dp"
+        android:layout_below="@+id/edtUpdateProduser"
+        android:hint="Nama Pemeran Utama" />
+
+    <EditText
+        android:id="@+id/edtUpdateTahun"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/bg_update"
+        android:textColorHint="@color/off_white"
+        android:textColor="@color/off_white"
+        android:fontFamily="sans-serif-condensed"
+        android:paddingStart="12dp"
+        android:layout_below="@+id/edtUpdatePemeran"
+        android:hint="Tahun Rilis"/>
+
+    <Button
+        android:id="@+id/btnUpdate"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/edtUpdateTahun"
+        android:layout_marginTop="20dp"
+        android:outlineSpotShadowColor="@color/white"
+        android:layout_centerInParent="true"
+        android:backgroundTint="@color/dark_red"
+        android:text="Update"
+        android:textAlignment="center" />
+
+
+</RelativeLayout>
